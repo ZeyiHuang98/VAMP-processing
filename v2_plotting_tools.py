@@ -3,6 +3,7 @@
 #
 # Adapted from VADER (https://github.com/chatterjeelab2022/VADER)
 # by Rachel E. Kelemen.
+# -*- coding: utf-8 -*-
 import matplotlib.pyplot as plt
 import numpy as np
 import math
