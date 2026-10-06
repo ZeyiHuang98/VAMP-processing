@@ -1,3 +1,5 @@
+# Copyright (c) 2022-2026 Trustees of Boston College
+#SPDX-License-Identifier: Apache-2.0
 # -*- coding: utf-8 -*-
 '''Author@ZeyiHuang
 This is the code adapted from Dr.Aaron and Dr. Rachel Kelemen to generate a weblogo showing
