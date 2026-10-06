@@ -1,3 +1,8 @@
+# Copyright (c) 2022-2026 Trustees of Boston College
+# SPDX-License-Identifier: Apache-2.0
+#
+# Adapted from VADER (https://github.com/chatterjeelab2022/VADER)
+# by Rachel E. Kelemen.
 # -*- coding: utf-8 -*-
 """
 @author: Rachel Kelemen
