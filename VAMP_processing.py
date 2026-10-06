@@ -1,3 +1,5 @@
+# Copyright (c) 2022-2026 Trustees of Boston College
+#SPDX-License-Identifier: Apache-2.0
 # -*- coding: utf-8 -*-
 '''@Author: Zeyi Huang
     This code calculate a mutagenesis mutation's abundance among all mutants for the corresponding site
