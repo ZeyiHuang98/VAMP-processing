@@ -1,6 +1,29 @@
 # VAMP-processing
-This is a code used to process the high-throughput sequencing data and analysis the mutational profiling result of tRNA. It also maintains the VADER function to process stem-randomization library of tRNA if you follow the guidance of VADER code (see https://github.com/chatterjeelab2022/VADER).
+This is a code used to process the high-throughput sequencing data and analysis the mutational profiling result of tRNA. 
 Specifically, this project is designed to not only perform statistic analysis of mutational profiling library but also plot the result.
+## Authors
+
+- Zeyi Huang
+
+Chatterjee Lab, Boston College
+
+- Aaron J. Maurais
+
+Weerapana Lab, Boston College
+
+## Acknowledgement of Original Work
+
+This code builds on VADER, originally developed by Rachel E. Kelemen
+and available at https://github.com/chatterjeelab2022/VADER.
+
+If you use this code, please also cite the original VADER paper:
+
+> Jewel, D., Kelemen, R.E., Huang, R.L. et al. Virus-assisted directed evolution of enhanced suppressor tRNAs in mammalian cells. Nat Methods 20, 95–103 (2023).
+> https://doi.org/10.1038/s41592-022-01706-w
+
+## Citation
+
+If you use this code, please cite:
 
 #1 Mutational profiling library generation
 
